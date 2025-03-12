@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NAGANANTH KATHIRESAN</h1>
 <h3 align="center">Driven CSBS Student | Aspiring Developer | Enthusiastic About Innovation in Tech|Interest in Analytics</h3>
 
-- 🔭 I’m currently working on **I’m currently learning and working on JAVA and Data Science**
+- 🔭  I’m currently learning and working on** JAVA and Data Science**
 
 - 🌱 I’m currently learning  **Data Visualization tools , Sql For Dta Science , R programming**
 
@@ -26,5 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagananth1105&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nagananth1105&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nagananth1105&theme=vue-dark)
+
 
