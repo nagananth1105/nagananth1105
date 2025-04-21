@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3  # Updated to maintained version
         with:
-          github_user_name: ${{ https://github.com/nagananth1105/ }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
           color_snake: blue
 
